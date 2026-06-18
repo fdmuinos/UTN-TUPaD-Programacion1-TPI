@@ -18,7 +18,7 @@ El programa ofrece un menú interactivo que permite realizar las siguientes oper
 
 1. Clonar este repositorio en tu máquina local:
    ```bash
-   git clone UTN-TUPaD-Programacion1-TPI
+   git clone [UTN-TUPaD-Programacion1-TPI](https://github.com/fdmuinos/UTN-TUPaD-Programacion1-TPI.git)
 2. Tener instalado Python 3.x.
 3. Navegar a la carpeta del proyecto y ejecutar el archivo principal desde la terminal:
    ```bash
